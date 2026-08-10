@@ -4,7 +4,7 @@ A C++/OpenGL application that renders an interactive 3D Mercedes-Benz logo with 
 
 ### Front View
 
-logo.png
+<img width="555" height="157" alt="allocation image" src="logo.png" />
 
 ## Features
 
