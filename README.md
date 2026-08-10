@@ -2,6 +2,10 @@
 
 A C++/OpenGL application that renders an interactive 3D Mercedes-Benz logo with keyboard controls.
 
+### Front View
+
+logo.png
+
 ## Features
 
 - 3D Mercedes-Benz logo rendering
@@ -39,5 +43,5 @@ Make sure you have the following installed:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/JosefTewodros12/mercedes-benz-logo.git
-cd mercedes-benz-logo
+git clone https://github.com/JosefTewodros12/gl-graphics.git
+cd gl-graphics
