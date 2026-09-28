@@ -33,7 +33,6 @@ A C++/OpenGL application that renders an interactive 3D Mercedes-Benz logo with 
 ## Getting Started
 
 ### Prerequisites
-
 Make sure you have the following installed:
 - GCC/G++ compiler
 - OpenGL libraries
