@@ -3,7 +3,6 @@
 A C++/OpenGL application that renders an interactive 3D Mercedes-Benz logo with keyboard controls.
 
 ### Front View
-
 <img width="500" alt="allocation image" src="logo.png" />
 
 ## Features
